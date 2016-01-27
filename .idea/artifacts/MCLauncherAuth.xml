@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MCLauncherAuth">
+    <output-path>$PROJECT_DIR$/out/artifacts/MCLauncherAuth</output-path>
+    <root id="archive" name="MCLauncherAuth.jar">
+      <element id="module-output" name="MCLauncherAuth" />
+    </root>
+  </artifact>
+</component>
